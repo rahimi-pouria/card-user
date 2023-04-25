@@ -1,0 +1,55 @@
+
+.content{
+    height: 100vh;
+    width: 100% !important;
+}
+.back-card{
+    height: 267px;
+}
+.right{
+    right: 0;
+    align-items: center;
+    justify-content: center;
+    padding: 31px;
+}
+.left{
+    left: 0;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 118px;
+}
+.avatar{
+    position: absolute;
+    left: 27%;
+    height: 125px;
+    top: -16%;
+    border-radius: 50%;
+}
+.photo-avatar{
+    height: 125px;
+}
+.logo{
+    position: absolute;
+    left: 64%;
+    bottom: -45px;
+}
+.logo > img {
+    height: 89px;
+}
+h2{
+    height: 10px;
+}
+i.fa{
+    margin-top: 1px;
+    margin-right: 12px;
+}
+.name-user{
+    font-size: 22px;
+}
+.details-user{
+    height: 38px !important;
+    align-items: center;
+}
+.btn-change-name{
+    cursor: pointer;
+}

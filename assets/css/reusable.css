@@ -1,0 +1,81 @@
+@font-face {
+    font-family: 'Montserrat';
+    src: url('/assets/fonts/Montserrat-VariableFont_wght.ttf');
+    font-style: normal;
+  }
+  h1, h2, h3, h4, h5, h6 p, span {
+    font-family: Montserrat !important;
+    font-weight: 700;
+  }
+.w-25{
+    width: 25% !important;
+}
+.w-40{
+    width: 40% !important;
+}
+.w-45{
+    width: 45% !important;
+}
+.w-50{
+    width: 50% !important;
+}
+.w-75{
+    width: 75% !important;
+}
+.w-100{
+    width: 100% !important;
+}
+.mx-auto{
+    margin: 0 auto !important;
+}
+.d-flex{
+    display: flex !important;
+}
+.position-relative {
+    position: relative;
+}
+.position-absolute{
+    position: absolute;
+}
+.g-5{
+    gap: 5px !important;
+}
+.g-8{
+    gap: 8px !important;
+}
+.g-12{
+    gap: 12px !important;
+}
+.g-16{
+    gap: 16px !important;
+}
+.flex-col{
+    flex-direction: column !important;
+}
+.flex-wrap{
+    flex-wrap: wrap !important;
+}
+.justify-content-center{
+    justify-content: center !important;
+}
+.align-items-center{
+    align-items: center !important;
+}
+.justify-content-between{
+    justify-content: space-between !important;
+}
+.border-bottom{
+    border-bottom: 2px solid #000 !important;
+}
+.pt-5{
+    padding-top: 5px;
+}
+.pt-10{
+    padding-top: 10px;
+}
+.pt-15{
+    padding-top: 15px;
+}
+.pt-20{
+    padding-top: 20px;
+}
